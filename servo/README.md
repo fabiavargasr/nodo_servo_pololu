@@ -67,3 +67,10 @@ And the following in */servo/CMakeLists.txt*:
 add_executable(servo_node src/servo_node.cpp src/servoController.cpp)
 ```
 
+### prueba de funcionamiento
+
+En la carpeta scripts esta el ejemplo de como funciona el nodo
+antes de usar hay que instalar el master controler y probar que los motores funciones
+de igual manera se puede condigurar el inicio, final y posicion defecto de los motores
+
+
